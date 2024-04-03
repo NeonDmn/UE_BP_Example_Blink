@@ -1,4 +1,4 @@
-## A recreation of "Blink" ability from a game "Dishonored" by Arcane Studios.
+## My Unreal Engine 5 recreation of "Blink" ability from a game "Dishonored" by Arcane Studios using blueprints.
 1. Obstacle detection
   (Can't blink through solid surfaces)
 2. Edge detection
